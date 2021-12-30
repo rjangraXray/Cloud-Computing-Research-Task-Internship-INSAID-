@@ -2,9 +2,11 @@
 INSAID-Internship Cloud Task for internship project.
 
 1. Describe basic aspects of AWS Elastic Compute Cloud.
+
 Ans: AWS Elastic Compute Cloud is a basic virtual machine with customizable hardware components and an OS. The system allows you to run various virtual computers and manage the same with a single hardware.Elastic Compute Cloud is the highly used and primary service system in the massive AWS ecosystem. The cloud system provides multiple features, for instance, it facilitates computing on-demand and scales the Computing capacity in the Amazon cloud system.
 
 2. How to create a virtual machine instance in AWS EC2.
+
 Ans: 
 step 1:-Login and access to AWS services.
 Step 2: Choose AMI.
@@ -21,4 +23,5 @@ Give a name to your key
 Download and save it in your secured folder.
 
 3. How to install an Apache webserver on AWS EC2 Instance.
+
 Ans:  install Apache Web Server on EC2 Instance using User data script
