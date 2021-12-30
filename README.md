@@ -9,12 +9,19 @@ Ans: AWS Elastic Compute Cloud is a basic virtual machine with customizable hard
 
 Ans: 
 step 1:-Login and access to AWS services.
+
 Step 2: Choose AMI.
+
 step 3: Choose EC2 Instance Types.
+
 step 4: Configure Instance.
+
 step 5: Add Storage.
+
 step 6: Tag Instance.
+
 step 7: Configure Security Groups.
+
 step 8: Review Instances.
 
 AWS stores the private key in the instance, and you are asked to download the private key. Make sure you download the key and keep it safe and secured.
